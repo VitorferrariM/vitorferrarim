@@ -1,8 +1,8 @@
-### Hi, I'm Hebert Bratefixe Alquimim 
+### Oi eu sou o Vitor Ferrari Mendes 
 
-📚 I'm a Professor at Universidade Nove de Julho - UNINOVE located in São Paulo - Brazil.
-
-📝 I teach undergraduate courses in Algorithms, Python, PHP, SQL and Javascript.
+ Sou estudante de TADS
+ 
+ No momento estou focando no back end em Python ou java
 
 <hr>
 
