@@ -24,10 +24,7 @@
 </div>
 
  ![Snake animation](https://github.com/vitteixe/vitteixe/blob/output/github-contribution-grid-snake.svg)
-</
 
-
-  
 
 
 
