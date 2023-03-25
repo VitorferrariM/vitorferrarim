@@ -2,7 +2,8 @@
 
  Sou estudante de TADS
  
- No momento estou focando no back end em Python ....
+Projetos da faculdade(Site,app com flutter e dart)
+Todos estao no Github....e....No momento sou dev back end em treinamento,usando o python e alguns frameworks
 
 <hr>
 
