@@ -1,48 +1,22 @@
-### Oi eu sou o Vitor Ferrari Mendes 
+## Hi, I’m Pedro, a mobile developer. 🐱‍👤
 
- Sou estudante de TADS
- 
-Projetos da faculdade(Site,app com flutter e dart)
-Todos estao no Github....e....No momento sou dev back end em treinamento,usando o python e alguns frameworks
-
-<hr>
-
-### Languages and Tools:
-<code><img widht="30" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img widht="30" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img widht="30" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img widht="30" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img widht="30" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
-<code><img widht="30" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-</code>
-
-<hr>
-
- <div>
-  <a href="https://github.com/hebertphp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorferrarim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorferrarim&layout=compact&langs_count=7&theme=dark"/>
+<div align="center">
+  <a href="https://github.com/pedrohenrique-42">
+    <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api?username=pedrohenrique-42&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+    <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique-42&layout=compact&langs_count=7&theme=nightowl"/>
+  </a>
 </div>
 
- ![Snake animation](https://github.com/vitteixe/vitteixe/blob/output/github-contribution-grid-snake.svg)
+- 👀 I’m interested in mobile and back-end development.
+- 🌱 I’m currently learning Android.
 
-
-
-
-
-
-
-
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-
-
+ ## 
+ <div>
+ <a href="https://www.linkedin.com/in/pedro-henrique-816577226/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/pedro_hlf_4/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://web.facebook.com/profile.php?id=100033594110766" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+ 
+![Snake animation](https://github.com/pedrohenrique-42/pedrohenrique-42/blob/output/github-contribution-grid-snake.svg)
   
-  
-
-
-
-
+ </div>
+ 
