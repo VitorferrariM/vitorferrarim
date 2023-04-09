@@ -1,6 +1,5 @@
- Sou Vitor Ferrari Mendes..
-Estudante de TADS
-No momento estou estudando e sou DESENVOLVEDOR ANDROID e tambem DEV BACK END
+ Sou Vitor Ferrari Mendes.. Desenvolvedor Android e Desenvolvedor back end 
+Estudante de TADS....
 
 
 <hr>
