@@ -1,4 +1,4 @@
- Sou Vitor Ferrari Mendes.. Desenvolvedor Android e Desenvolvedor back end 
+ Sou Vitor Ferrari Mendes.. Desenvolvedor Android/IOS e Desenvolvedor back end 
  
 Estudante de TADS....Tambem estudando IA 
 
