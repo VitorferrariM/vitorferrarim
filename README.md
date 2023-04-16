@@ -1,4 +1,4 @@
- Sou Vitor Ferrari Mendes.. Desenvolvedor Mobile  e Desenvolvedor back end 
+ Sou Vitor Ferrari Mendes.. Desenvolvedor Android/ios  e Desenvolvedor back end 
  
 Estudante de TADS....
 
