@@ -1,6 +1,7 @@
- Sou Vitor Ferrari Mendes.. Back end Developer(Python,Java,Golang...........nos estudos
- 
-Estudante de TADS....
+ Sou Vitor Ferrari Mendes,estudante de TADS e sou dev back end
+ No momento estou aprendendo java 
+ Hi,My names is Vitor Ferrari Mendes,TADS student and iam back end developer
+ I'm currently learning java
 
 
 <hr>
