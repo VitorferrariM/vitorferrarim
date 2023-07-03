@@ -9,7 +9,6 @@ Vitor Ferrari Mendes
 
 ## ⚡ Technologies
 
-<div>
  <!-- Java -->
 <img width="36px" src="https://cdn.iconscout.com/icon/free/png-256/free-java-59-1174952.png">
  <!-- Spring -->
@@ -20,7 +19,7 @@ Vitor Ferrari Mendes
 <img width="36px" src="https://user-images.githubusercontent.com/97141987/236518766-e01dec6a-7c8d-4913-8f9b-167146eaba05.png">
  <!-- AWS -->
 <img width="36px" src="https://user-images.githubusercontent.com/97141987/236519009-8b7a6020-8527-4cc7-b54b-635e4db8c450.png">
-</div>
+
 
 
 
