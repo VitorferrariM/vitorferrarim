@@ -4,7 +4,7 @@ Vitor Ferrari Mendes
 - 🧠&nbsp;<samp>Cursando Analise e Desenvolvimento de Sistemas</samp>
 - 📝&nbsp;<samp>Sempre disposto a aprender mais</samp>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/vitor-ferrari-mendes-a79885211)](https://www.linkedin.com/in/vitor-ferrari-mendes-a79885211/
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/vitor-ferrari-mendes-a79885211)
 
 <hr>
 
