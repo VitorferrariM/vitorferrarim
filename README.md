@@ -4,23 +4,22 @@ Vitor Ferrari Mendes
 - 🧠&nbsp;<samp>Cursando Analise e Desenvolvimento de Sistemas</samp>
 - 📝&nbsp;<samp>Sempre disposto a aprender mais</samp>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/vitor-ferrari-mendes-a79885211)
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/vitor-ferrari-mendes-a79885211)
 
 <hr>
 
 ## ⚡ Technologies
-<div> 
- <!-- Java -->
-<img width="36px" src="https://cdn.iconscout.com/icon/free/png-256/free-java-59-1174952.png">
- <!-- Spring -->
-<img width="36px" src="https://user-images.githubusercontent.com/97141987/236517831-f28fcc0c-dc30-48dd-87d5-242eb80ae867.png">
- <!-- PostgreSQL -->
-<img width="36px" src="https://user-images.githubusercontent.com/97141987/236518046-9112d741-f706-4bdc-bebe-c1c78b411e2d.png">
- <!-- Html -->
-<img width="36px" src="https://user-images.githubusercontent.com/97141987/236518766-e01dec6a-7c8d-4913-8f9b-167146eaba05.png">
- <!-- AWS -->
-<img width="36px" src="https://user-images.githubusercontent.com/97141987/236519009-8b7a6020-8527-4cc7-b54b-635e4db8c450.png">
-</div>
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
 
 
 
