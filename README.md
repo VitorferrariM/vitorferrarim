@@ -1,9 +1,9 @@
- Sou Vitor Ferrari Mendes,estudante de TADS e sou dev back end
- No momento estou aprendendo java 
- 
- Hi,My names is Vitor Ferrari Mendes,TADS student and iam back end developer
- I'm currently learning java
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/vitor-ferrari-mendes-a79885211)](https://www.linkedin.com/in/vitor-ferrari-mendes-a79885211/)
 
+Vitor Ferrari Mendes 
+- 💻&nbsp;<samp>Desenvolvedor Back end </samp>
+- 🧠&nbsp;<samp>Cursando Analise e Desenvolvimento de Sistemas</samp>
+- 📝&nbsp;<samp>Sempre disposto a aprender mais</samp>
 
 <hr>
 
