@@ -31,7 +31,7 @@ Vitor Ferrari Mendes
   </a>
 </div>
 
-
+<div>
  
 ![Snake animation](https://github.com/pedrohenrique-42/pedrohenrique-42/blob/output/github-contribution-grid-snake.svg)
   
