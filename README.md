@@ -10,7 +10,7 @@ Vitor Ferrari Mendes
 <hr>
 
 ## ⚡ Technologies
-<div align="center">
+<div align="left">
  <!-- Java -->
 <img width="36px" src="https://cdn.iconscout.com/icon/free/png-256/free-java-59-1174952.png">
  <!-- Spring -->
