@@ -15,13 +15,10 @@ Vitor Ferrari Mendes
 <img width="36px" src="https://cdn.iconscout.com/icon/free/png-256/free-java-59-1174952.png">
  <!-- Spring -->
 <img width="36px" src="https://user-images.githubusercontent.com/97141987/236517831-f28fcc0c-dc30-48dd-87d5-242eb80ae867.png">
- <!-- JavaScript -->
-<img width="36px" src="https://user-images.githubusercontent.com/97141987/236518044-9112d741-f706-4bdc-bebe-c1c78b411e2d.png">
- <!-- Dcoker -->
-<img width="36px" src="https://user-images.githubusercontent.com/97141987/236518766-e01dec6a-7c8d-4913-8f9b-167146eaba05.png">
- <!-- AWS -->
-<img width="36px" src="https://user-images.githubusercontent.com/97141987/236519009-8b7a6020-8527-4cc7-b54b-635e4db8c450.png">
-</div>
+<img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+ <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Vitor-JS height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+ <img img align="center" alt="Vitor-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /> 
 
 
 <div align="center">
