@@ -11,9 +11,7 @@ Vitor Ferrari Mendes
 
 ## ⚡ Technologies
 <div align="left">
- <!-- Java -->
 <img width="36px" src="https://cdn.iconscout.com/icon/free/png-256/free-java-59-1174952.png">
- <!-- Spring -->
 <img width="36px" src="https://user-images.githubusercontent.com/97141987/236517831-f28fcc0c-dc30-48dd-87d5-242eb80ae867.png">
 <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
