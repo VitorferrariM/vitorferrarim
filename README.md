@@ -16,7 +16,7 @@ Vitor Ferrari Mendes
  <!-- Spring -->
 <img width="36px" src="https://user-images.githubusercontent.com/97141987/236517831-f28fcc0c-dc30-48dd-87d5-242eb80ae867.png">
  <!-- JavaScript -->
-<img width="36px" src="https://user-images.githubusercontent.com/97141987/236518046-9112d741-f706-4bdc-bebe-c1c78b411e2d.png">
+<img width="36px" src="https://user-images.githubusercontent.com/97141987/236518044-9112d741-f706-4bdc-bebe-c1c78b411e2d.png">
  <!-- Dcoker -->
 <img width="36px" src="https://user-images.githubusercontent.com/97141987/236518766-e01dec6a-7c8d-4913-8f9b-167146eaba05.png">
  <!-- AWS -->
