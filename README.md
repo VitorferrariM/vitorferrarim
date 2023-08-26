@@ -10,14 +10,18 @@ Vitor Ferrari Mendes
 <hr>
 
 ## ⚡ Technologies
-<div>
-  <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vitor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vitor-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<div align="center">
+ <!-- Java -->
+<img width="36px" src="https://cdn.iconscout.com/icon/free/png-256/free-java-59-1174952.png">
+ <!-- Spring -->
+<img width="36px" src="https://user-images.githubusercontent.com/97141987/236517831-f28fcc0c-dc30-48dd-87d5-242eb80ae867.png">
+ <!-- JavaScript -->
+<img width="36px" src="https://user-images.githubusercontent.com/97141987/236518046-9112d741-f706-4bdc-bebe-c1c78b411e2d.png">
+ <!-- Dcoker -->
+<img width="36px" src="https://user-images.githubusercontent.com/97141987/236518766-e01dec6a-7c8d-4913-8f9b-167146eaba05.png">
+ <!-- AWS -->
+<img width="36px" src="https://user-images.githubusercontent.com/97141987/236519009-8b7a6020-8527-4cc7-b54b-635e4db8c450.png">
 </div>
-
 
 
 <div align="center">
