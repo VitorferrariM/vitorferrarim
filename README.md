@@ -18,17 +18,14 @@ Vitor Ferrari Mendes
  <img align="center" alt="Vitor-JS" height="30" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Vitor-MySQL" height="30" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /> 
 <div>
-
+ <div>
+ 
 <div align="center">
-  <a href="https://github.com/VitorferrariM">
-    <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api?username=VitorferrariM&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+ <div>
+  <a href="https://github.com/VitorFerrariM">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorFerrariM&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
     <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorferrariM&layout=compact&langs_count=7&theme=light"/>
   </a>
 </div>
 
-<div>
- 
-![Snake animation](https://github.com/pedrohenrique-42/pedrohenrique-42/blob/output/github-contribution-grid-snake.svg)
-  
- </div>
  
