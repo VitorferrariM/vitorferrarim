@@ -1,8 +1,9 @@
 
 Vitor Ferrari Mendes 
-- 💻&nbsp;<samp>Desenvolvedor Back end </samp>
+- 💻&nbsp;<samp>Engenheiro de Dados | Cientista de Dados</samp>
+- 📚&nbsp;<samp>Estudando dados e sempre disposto a aprender mais</samp>
 - 🧠&nbsp;<samp>Cursando Analise e Desenvolvimento de Sistemas</samp>
-- 📝&nbsp;<samp>Sempre disposto a aprender mais</samp>
+- 📈👨‍💻&nbsp;<samp>Amo❤️ Inteligencia Artificial🧩 | Python🐍 | Dados🎲</samp>
 
 ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/vitor-ferrari-mendes-a79885211)
 ![Instagram Badge](https://img.shields.io/badge/Instagram-%30R4405S.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/in/vitor-ferrari-m-a79885211)
@@ -12,10 +13,10 @@ Vitor Ferrari Mendes
 ## ⚡ Technologies
 <div align="left">
  <img align="center" alt="Vitor-JAVA" height="30" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
-<img align="center" alt="Vitor-Spring" height="30" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> 
+<img align="center" alt="Vitor-Python" height="30" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 <img align="center" alt="Vitor-HTML" height="30" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
  <img align="center" alt="Vitor-CSS" height="30" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Vitor-JS" height="30" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Vitor-SQL" height="30" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-plain.svg">
  <img align="center" alt="Vitor-MySQL" height="30" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /> 
 <div>
  <div>
