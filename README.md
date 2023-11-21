@@ -14,8 +14,6 @@ Vitor Ferrari Mendes
 <div align="left">
  <img align="center" alt="Vitor-JAVA" height="30" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
 <img align="center" alt="Vitor-Python" height="30" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-<img align="center" alt="Vitor-HTML" height="30" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
- <img align="center" alt="Vitor-excel" height="30" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg">
  <img align="center" alt="Vitor-MySQL" height="30" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /> 
 <div>
  <div>
