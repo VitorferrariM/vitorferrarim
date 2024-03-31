@@ -1,6 +1,6 @@
 
 Vitor Ferrari Mendes 
-- 💻&nbsp;<samp>Engenheiro de Dados e Ciencia de Dados</samp>
+- 💻&nbsp;<samp>Engenheiro de Dados</samp>
 - 📚&nbsp;<samp>Estudando dados e sempre disposto a aprender mais</samp>
 - 🧠&nbsp;<samp>Cursando Analise e Desenvolvimento de Sistemas</samp>
 - 📈👨‍💻&nbsp;<samp>Amo❤️ Inteligencia Artificial🧩 | Python🐍 | Dados🎲</samp>
@@ -12,7 +12,7 @@ Vitor Ferrari Mendes
 
 ## ⚡ Technologies
 <div align="left">
- <img align="center" alt="Vitor-JAVA" height="30" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+ <img align="center" alt="Vitor-Bigquery" height="30" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bigquery/bigquery-original.svg"> 
 <img align="center" alt="Vitor-Python" height="30" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
  <img align="center" alt="Vitor-MySQL" height="30" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /> 
 <div>
