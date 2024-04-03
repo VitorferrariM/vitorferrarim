@@ -12,7 +12,6 @@ Vitor Ferrari Mendes
 
 ## ⚡ Technologies
 <div align="left">
- <img align="center" alt="Vitor-Bigquery" height="30" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bigquery/bigquery-original.svg"> 
 <img align="center" alt="Vitor-Python" height="30" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
  <img align="center" alt="Vitor-MySQL" height="30" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /> 
 <div>
