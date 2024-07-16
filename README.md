@@ -1,8 +1,8 @@
 
 Vitor Ferrari Mendes 
-- 💻&nbsp;<samp>Engenheiro de Dados</samp>
+- 💻&nbsp;<samp>Cientista de Dados</samp>
 - 📚&nbsp;<samp>Estudando dados e sempre disposto a aprender mais</samp>
-- 🧠&nbsp;<samp>Cursando Analise e Desenvolvimento de Sistemas</samp>
+- 🧠&nbsp;<samp>Formado em Analise e Desenvolvimento de Sistemas</samp>
 - 📈👨‍💻&nbsp;<samp>Amo❤️ Inteligencia Artificial🧩 | Python🐍 | Dados🎲</samp>
 
 ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/vitor-ferrari-mendes-a79885211)
