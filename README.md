@@ -1,6 +1,6 @@
 
 Vitor Ferrari Mendes 
-- 💻&nbsp;<samp>Engenheiro De dados</samp>
+- 💻&nbsp;<samp>Padawan em Analise e Ciencia de Dados</samp>
 - 📚&nbsp;<samp>Estudando dados e sempre disposto a aprender mais</samp>
 - 🧠&nbsp;<samp>Formado em Analise e Desenvolvimento de Sistemas</samp>
 - 📈👨‍💻&nbsp;<samp>Amo❤️ Inteligencia Artificial🧩 | Python🐍 | Dados🎲</samp>
