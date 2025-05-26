@@ -12,7 +12,12 @@ Vitor Ferrari Mendes
 
 ## ⚡ Technologies
 <div align="left">
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Pytho</svg>
+<img align="center" alt="Vitor Darte" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="center" alt="Vitor Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="Vitor Darte" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg">
+<img align="center" alt="Vitor Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg">
+<img align="center" alt="Vitor Darte" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+
 
 
 
