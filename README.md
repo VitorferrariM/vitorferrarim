@@ -13,7 +13,6 @@ Vitor Ferrari Mendes
 ## ⚡ Technologies
 <div align="left">
 <img align="center" alt="Vitor-Python" height="30" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
- <img align="center" alt="Vitor-Java" height="30" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java-plain-wordmark.svg" />
  <img align="center" alt="Vitor-Git" height="30" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
 <div>
  <div>
