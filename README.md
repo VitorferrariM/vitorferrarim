@@ -12,11 +12,10 @@ Vitor Ferrari Mendes
 
 ## ⚡ Technologies
 <div align="left">
-<img align="center" alt="Vitor Darte" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="Vitor Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="center" alt="Vitor Darte" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg">
-<img align="center" alt="Vitor Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg">
-<img align="center" alt="Vitor Darte" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+<img align="center" alt="Vitor Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="center" alt="Vitor Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="Vitor Streamlit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg">
+<img align="center" alt="Vitor Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
 
 
 
