@@ -1,29 +1,38 @@
 
-Vitor Ferrari Mendes 
-- 💻&nbsp;<samp>Padawan em Dados (especifico em Analise de Dados e ciencia de Dados</samp>
-- 📚&nbsp;<samp>Estudando dados e sempre disposto a aprender mais</samp>
-- 🧠&nbsp;<samp>Formado em Analise e Desenvolvimento de Sistemas</samp>
-- 📈👨‍💻&nbsp;<samp>Amo❤️ Inteligencia Artificial🧩 | Python🐍 | Dados🎲</samp>
+# ✨ Olá, eu sou o Vitor! 👻
 
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/vitor-ferrari-mendes-a79885211)
-![Instagram Badge](https://img.shields.io/badge/Instagram-%30R4405S.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/in/vitor-ferrari-m-a79885211)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF69B4&size=22&center=true&vCenter=true&width=500&lines=Analista+de+Dados+📊;Criadora+de+Conteúdo+👩‍💻;Embaixadora+da+PrograMaria+🌸;Sempre+aprendendo+algo+novo!+🚀)](https://git.io/typing-svg)
 
-<hr>
+## 🌸 Sobre mim  
 
-## ⚡ Technologies
-<div align="left">
-<img align="center" alt="Vitor Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="Vitor Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="center" alt="Vitor Streamlit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg">
-<img align="center" alt="Vitor Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+😁 **Analista de Dados** apaixonada por transformar números em insights!  
+📢 **Criador de conteúdo tech**, ajudando futuros profissionais da área de dados.   
+🤖 Amo Inteligencia Artificial e Dados!! 
+
+## 🚀 Minhas Skills  
+
+### 📊 **Data & BI**  
+![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=flat&logo=amazon-dynamodb&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white)  
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)  
+
+### 🛠️ **Outras Techs**  
+![Databricks](https://img.shields.io/badge/Databricks-FC4C02?style=flat&logo=databricks&logoColor=white)   
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 
+---
 
+## 🌍 Conecte-se comigo!  
 
+https://www.linkedin.com/in/vitor-ferrari-mendes-a79885211/
+---
 
- 
-<div>
- <div>
  
 <div align="center">
   <a href="https://github.com/VitorFerrariM">
