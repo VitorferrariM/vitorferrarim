@@ -1,11 +1,11 @@
 
-# ✨ Olá, eu sou o Vitor! 👻
+#  Olá, eu sou o Vitor! 👻
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231E90FF&size=22&center=true&vCenter=true&width=500&lines=Analista+de+Dados+📊;Criador+de+Conteúdo+🧑‍💻;Padawan+nas+horas+vagas+🪐)](https://git.io/typing-svg)
 
 
 
-## 🌸 Sobre mim  
+##  Sobre mim  
 
 😁 **Analista de Dados** apaixonada por transformar números em insights!  
 📢 **Criador de conteúdo tech**, ajudando futuros profissionais da área de dados.   
