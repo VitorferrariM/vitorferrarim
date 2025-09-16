@@ -7,21 +7,21 @@
 
 ##  Sobre mim  
 
-😁 **Analista de Dados** apaixonada por transformar números em insights!  
+😁 **Engenheiro De Dados Junior** apaixonado por transformar os dados!  
 📢 **Criador de conteúdo tech**, ajudando futuros profissionais da área de dados.   
 🤖 Amo Inteligencia Artificial e Dados!! 
 
 ## 🚀 Minhas Skills  
 
-### 📊 **Data & BI**  
-![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=flat&logo=amazon-dynamodb&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Databricks](https://img.shields.io/badge/Databricks-FC4C02?style=flat&logo=databricks&logoColor=white)   
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Estatística](https://img.shields.io/badge/Estat%C3%ADstica-FF6347?style=flat&logo=chart?logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=flat&logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FC4C02?style=flat&logo=databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF5733?style=flat&logo=dbt-labs&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Google%20Cloud](https://img.shields.io/badge/Google%20Cloud-FBBC05?style=flat&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
 
 ### 🛠️ **Outras Techs**  
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
