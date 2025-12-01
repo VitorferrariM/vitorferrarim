@@ -46,7 +46,11 @@ Tenho foco em:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge\&logo=googleanalytics\&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge\&logo=google-cloud\&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
@@ -66,12 +70,13 @@ Tenho foco em:
 
 ## 🌐 Onde me encontrar
 
-🔗 **LinkedIn:** *adicione seu link aqui*
+🔗 **LinkedIn:** *https://www.linkedin.com/in/vitor-ferrari-mendes-a79885211/*
 
-📧 **Email:** *adicione seu email aqui*
+📧 **Email:** *vitorferrarimendes03@gmail.com*
 
 ---
 
 <div align="center">
   <h3>⭐ Se curtir algum projeto meu, deixa uma estrela! Isso ajuda demais! ⭐</h3>
 </div>
+
