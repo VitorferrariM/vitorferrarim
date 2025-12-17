@@ -63,7 +63,7 @@ Tenho foco em:
 
 * Fundamentos de Machine Learning
 * Modelos estatísticos
-* Engenharia de Dados básica
+* Analise de Dados
 * IA generativa
 
 ---
