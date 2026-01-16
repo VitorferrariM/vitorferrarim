@@ -4,9 +4,10 @@
 
   <!-- Logo animado -->
 
-  <img src="https://readme-typing-svg.herokuapp.com?color=%231E90FF&size=28&center=true&vCenter=true&width=600&lines=Analista+de+Dados+%F0%9F%91%A8%F0%9F%92%BB;Criador+de+Conte%C3%BAdo+%F0%9F%92%BB;Entusiasta+de+IA+e+Machine+Learning+%F0%9F%94%AC;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80" />
+ <img 
+    src="https://readme-typing-svg.herokuapp.com?color=%231E90FF&size=28&center=true&vCenter=true&width=800&lines=Engenheiro+de+Dados+%F0%9F%91%A8%F0%9F%92%BB;Engenheiro+de+IA+%F0%9F%A4%96;Apaixonado+por+criar+solu%C3%A7%C3%B5es+para+todos+%F0%9F%8C%8D;Entusiasta+de+IA+e+Machine+Learning+%F0%9F%94%AC;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80" 
+  />
 </div>
-
 ---
 
 ## 🚀 Sobre mim
