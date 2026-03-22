@@ -1,5 +1,5 @@
 👋 Olá, eu sou o Vitor Ferrari Mendes
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=%231E90FF&size=28&center=true&vCenter=true&width=900&lines=Analista+de+Dados+%7C+Engenheiro+de+dados+%F0%9F%93%8A;Python+%7C+SQL+%7C+Google Cloud+%F0%9F%A7%A0;Transformando+dados+em+decis%C3%B5es+%F0%9F%9A%80;Construindo+projetos+de+dados+para+o+mundo+real+%F0%9F%8C%8D"/> </div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=%231E90FF&size=28&center=true&vCenter=true&width=900&lines=Analista+de+Dados+%7C=Engenheiro+de+dados+%F0%9F%93%8A;Python+%7C+SQL+%7C+Google Cloud+%F0%9F%A7%A0;Transformando+dados+em+decis%C3%B5es+%F0%9F%9A%80;Construindo+projetos+de+dados+para+o+mundo+real+%F0%9F%8C%8D"/> </div>
 🚀 Sobre mim
 
 🎯 Analista de Dados e Engineer em formação, focado em transformar dados em insights estratégicos e soluções inteligentes.
