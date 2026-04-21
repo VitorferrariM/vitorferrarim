@@ -103,29 +103,11 @@ public class VitorFerrari {
 
 ---
 
-## 🎯 Aprendizado Contínuo
-
-<div align="center">
-
-### 🤖 ᗧ···🍎···👻···👻···🍎 PAC-MAN DEVORANDO CONHECIMENTO
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│  🤖 ᗧ · · · 📚 · · · ⚙️  AI & Machine Learning      ▰▰▰▰▰▰▰▱▱▱ │
-│                                                                 │
-│  🤖 ᗧ · · · 📚 · · ·     Cloud Architecture         ▰▰▰▰▰▰▰▰▰▱ │
-│                                                                 │
-│  🤖 ᗧ · · 📚 · · · ⚙️   Microservices & APIs       ▰▰▰▰▰▰▰▰▱▱ │
-│                                                                 │
-│  🤖 ᗧ · 📚 · · · ⚙️ · ·  System Design Patterns    ▰▰▰▰▰▰▱▱▱▱ │
-│                                                                 │
-│  🤖 ᗧ · · · 📚 · · · ⚙️  Java & Spring Ecosystem   ▰▰▰▰▰▰▰▰▰▰ │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-
-Legenda: 🤖 = Pac-Man Developer | 📚 = Conhecimento | ⚙️ = Bugs Resolvidos
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitorferrariM/VitorferrariM/output/pacman-contribution-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VitorferrariM/VitorferrariM/output/pacman-contribution-light.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VitorferrariM/VitorferrariM/output/pacman-contribution-light.svg">
+</picture>
 
 </div>
 
