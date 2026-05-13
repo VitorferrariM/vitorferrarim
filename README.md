@@ -72,12 +72,12 @@ engineer = VitorFerrari()
 <img src="https://skillicons.dev/icons?i=python,sql" />
 </td>
 <td align="center" width="33%">
-<h4>☁️ Cloud & Infra</h4>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes" />
+<h4>☁️ Cloud & Data Warehouse</h4>
+<img src="https://skillicons.dev/icons?i=gcp,aws" />
 </td>
 <td align="center" width="33%">
-<h4>🔄 Data Tools</h4>
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
+<h4>🔄 Processing & Tools</h4>
+<img src="https://skillicons.dev/icons?i=docker" />
 </td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@ engineer = VitorFerrari()
 
 </div>
 
-### 📌 Ferramentas Essenciais
+### 📌 Stack Essencial
 
 <div align="center">
 
@@ -100,25 +100,10 @@ engineer = VitorFerrari()
 | **SQL** | ⭐⭐⭐⭐⭐ | Query otimizado, DML, DDL e design de schemas |
 | **Apache Airflow** | ⭐⭐⭐⭐ | Orquestração de pipelines, DAGs e scheduling |
 | **Apache Spark** | ⭐⭐⭐⭐ | Big Data processing, transformações distribuídas |
-| **Google Cloud Platform** | ⭐⭐⭐⭐ | BigQuery, Dataflow, Cloud Storage, Pub/Sub |
-| **Amazon Web Services** | ⭐⭐⭐⭐ | S3, Glue, EMR, Lambda, RDS |
+| **Google BigQuery** | ⭐⭐⭐⭐ | Data warehouse cloud, queries em tempo real |
+| **Databricks** | ⭐⭐⭐⭐ | Plataforma de data lakehouse, Spark managed |
+| **Metabase** | ⭐⭐⭐⭐ | Analytics & dashboards, visualização de dados |
 | **Git & GitHub** | ⭐⭐⭐⭐⭐ | Versionamento, CI/CD, colaboração |
-| **Docker** | ⭐⭐⭐⭐ | Containerização de aplicações e ambientes |
-
-</div>
-
-### 🔧 Conhecimentos Adicionais
-
-<div align="center">
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 </div>
 
@@ -161,13 +146,11 @@ engineer = VitorFerrari()
 
 <div align="center">
 
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| 📊 **ETL Pipeline Data Warehouse** | Pipeline completo de ingestão, transformação e carga com dados em tempo real | Python • Airflow • Spark • PostgreSQL |
-| ⚡ **Real-time Streaming Analytics** | Processamento de dados em streaming com Kafka e Spark Streaming | Kafka • Spark • GCP Pub/Sub |
-| 🏗️ **Data Lake Architecture** | Arquitetura completa de data lake escalável em cloud | AWS S3 • Glue • EMR • BigQuery |
-| 🔍 **Advanced SQL Analytics** | Queries otimizadas e complex joins para análise exploratória | SQL • BigQuery • PostgreSQL |
-| 🐳 **Containerized Data Apps** | Aplicações data-driven em containers com orquestração | Docker • Kubernetes • Python |
+| Projeto | Descrição | Tech Stack |
+|---------|-----------|-----------|
+| 📊 **[NYC Yellow Taxi Pipeline](https://github.com/VitorferrariM/-nyc-yellow-taxi-pipeline)** | ETL completo de dados de táxi de NYC com processamento distribuído e warehouse | Python • Airflow • Spark • GCP |
+| 🏗️ **[Lakehouse DataBricks](https://github.com/VitorferrariM/Lakehouse-DataBricks)** | Arquitetura de data lakehouse escalável usando Databricks e Apache Spark | Databricks • Spark • Python • SQL |
+| 📈 **[DataWarehouse](https://github.com/VitorferrariM/DataWarehouse)** | Data warehouse otimizado com BigQuery e pipeline de ingestão automatizado | BigQuery • Python • Airflow • GCP |
 
 👉 Veja todos os projetos em [github.com/VitorferrariM](https://github.com/VitorferrariM)
 
